@@ -1,6 +1,6 @@
 # Hey folks! I'm Talha 👋
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Talhaerogluu.visitor-badge)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=tlhaeroglu.visitor-badge)
  
  
 - 🔭 I'm a Computer Engineering student and I'm working on web development. 
@@ -13,12 +13,12 @@ You can visit the my website. [here](https://talhaeroglu.com).
 
 ## My GitHub Stats:
 
-![TalhaErogluu's GitHub stats](https://github-readme-stats.vercel.app/api?username=TalhaErogluu&show_icons=true&theme=tokyonight)
+![TalhaErogluu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlhaeroglu&show_icons=true&theme=tokyonight)
 
 ## My Top Langs:
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaErogluu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlhaeroglu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
