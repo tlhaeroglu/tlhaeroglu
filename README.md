@@ -1,6 +1,6 @@
 # Hey folks! I'm Talha 👋
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=cbozan.visitor-badge)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=tlhaeroglu.visitor-badge)
  
  
 - 🔭 I'm a Computer Engineering student and I'm working on web development. 
