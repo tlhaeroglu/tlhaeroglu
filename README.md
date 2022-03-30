@@ -4,7 +4,7 @@
  
  
 - 🔭 I'm a Computer Engineering student and I'm working on web development. 
-- 🌱 I’m currently learning Javacript frameworks(nodeJs, reactJs e.g)
+- 🌱 I’m currently learning Javacript frameworks (nodeJs, reactJs e.g)
 - I am like the Javascript language.
 
 
