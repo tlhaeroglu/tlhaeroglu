@@ -15,7 +15,7 @@ My LeetCode profile is. [here](https://leetcode.com/talhace/).
 
 ## My GitHub Stats:
 
-![TalhaErogluu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlhaeroglu&show_icons=true&theme=tokyonight)
+![TalhaErogluu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlhaeroglu&show_icons=true&theme=radical)
 
 ## My Top Langs:
 
