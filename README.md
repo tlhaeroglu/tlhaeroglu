@@ -20,8 +20,7 @@ My LeetCode profile is. [here](https://leetcode.com/talhace/).
 ## My Top Langs:
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlhaeroglu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlhaeroglu&layout=compact&reset=1)
 
 
 
