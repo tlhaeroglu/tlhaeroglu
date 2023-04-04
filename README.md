@@ -2,7 +2,7 @@
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=tlhaeroglu.visitor-badge)
  
- 
+- 🏢 I'm currently working on [JotForm](https://www.jotform.com/) as a UI & Frontend Developer.
 - 🔭 I'm a Computer Engineering student and I'm working on web development. 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width="20" height="20">  I’m currently learning Javacript frameworks (nodeJs, reactJs e.g) 
 - I am like the Javascript language.
